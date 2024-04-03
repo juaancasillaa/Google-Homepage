@@ -73,6 +73,10 @@ li a:hover {
   align-items: center;
 }
 
+h2 {
+  display: none;
+}
+
 form {
   position: relative;
   margin-top: 30px;
